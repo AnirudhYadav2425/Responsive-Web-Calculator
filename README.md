@@ -1,4 +1,5 @@
 🧮 Calculator Web App – HTML, CSS, JavaScript
+
 📌 Project Title:
 Responsive Web Calculator
 
@@ -6,14 +7,10 @@ Responsive Web Calculator
 Frontend:
 
 HTML5 – Page structure
-
 CSS3 – Styling and layout
-
 JavaScript – Calculator logic and interactivity
 
-Tools Used:
-
-CodePen / VS Code
+Tools Used :- VS Code/Eclipse
 
 Git & GitHub for version control
 
